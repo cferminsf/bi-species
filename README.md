@@ -7,23 +7,23 @@ Es un proyecto de Starflowers escrito en Python para la obtencion de informacion
 ## Características
 
 - Soporte para Bases de Datos como SQL Server, SQLite, MySql, entre otros.
-- Obtencion de datos desde las APIs desde UnoSof, utilizando las api keys.
+- Obtención de datos desde las APIs desde UnoSof, utilizando las api keys.
 
 ## Requisitos
 
-Para la ejecucion de este proyecto se debe tener instalado el lenguaje de Python, asi como tambien las librerias de request, pypyodbc, pyodbc y sqlachemy.
+Para la ejecucion de este proyecto se debe tener instalado el lenguaje de Python, asi como tambien las librerías de request, pypyodbc, pyodbc y sqlachemy.
 
 ## Instalación
 
 Para instalar este proyecto en tu equipo sigue los siguientes pasos:
 
-1. Clonacion del repositorio: `https://github.com/cferminsf/bi-species.git`
+1. Clonacion del repositorio: `git clone https://github.com/cferminsf/bi-species.git`
 2. Instalacion de librerias del proyecto: <br> 
     `pip install request` <br>
     `pip install pypyodbc` <br>
     `pip install sqlalchemy` <br>
     `pip install pyodbc`
-3. Ejecucion del proyecto: `python Species.py`
+3. Ejecución del proyecto: `python Species.py`
 
 ## Uso
 
